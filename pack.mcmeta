@@ -1,0 +1,13 @@
+{
+    "pack":{
+        "pack_format": 1,
+        "description": "Changes languages"
+    },
+    "language":{
+        "hv_val": {
+            "name": "High Valyrian",
+            "region": "Valyria",
+            "bidirectional": "false"
+        }
+    }
+}
